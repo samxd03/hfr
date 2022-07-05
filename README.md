@@ -3,7 +3,7 @@
 # ⚡ Steps: 🔥
 1) Tap on  DEPLOYING TO HEROKU
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucifeermorningstar/Heroku-fake-repo)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samxd03/Heroku-fake-repo)
 
 2) Link your `GitHub` in Heroku.
 3) Go to `Deploy` section.
